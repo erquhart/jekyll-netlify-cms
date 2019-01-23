@@ -2,7 +2,7 @@
 
 # Jekyll + Netlify CMS with Netlify Identity
 
-This is the basic Jekyll starter site, with Netlify CMS integrated and using Netlify Identity for
+This is a basic Jekyll starter site, with Netlify CMS integrated and using Netlify Identity for
 authentication.
 
 ## Getting started
